@@ -1,3 +1,3 @@
-#Random Animal Generator
+# Random Animal Generator
 
-First project for understating the props system
+First project for understating the props system.
